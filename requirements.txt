@@ -1,3 +1,2 @@
-msoffcrypto-tool
-matplotlib == 3.5.3
 plotnine
+openpyxl>=3.0.10
